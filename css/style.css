@@ -1177,19 +1177,19 @@ button,
 
 .page-header {
   background-color: #1D2631;
-  background-image: url("../../img/back-mobile.jpg");
+  background-image: url("../img/back-mobile.jpg");
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-size: cover;
 }
 @media (min-width: 320px) {
   .page-header {
-    background-image: url("../../img/back-tablet.jpg");
+    background-image: url("../img/back-tablet.jpg");
   }
 }
 @media (min-width: 1200px) {
   .page-header {
-    background-image: url("../../img/back-desktop.jpg");
+    background-image: url("../img/back-desktop.jpg");
   }
 }
 @media (max-width: 657px) {
@@ -1913,7 +1913,7 @@ button,
   flex-basis: 50%;
   width: 238px;
   height: 276px;
-  background-image: url(../../../img/index/research-timer.svg);
+  background-image: url(../img/index/research-timer.svg);
   background-repeat: no-repeat;
 }
 @media (min-width: 1200px) {
